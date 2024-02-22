@@ -1,0 +1,15 @@
+/Users/gillichnorbert/Projects/hf0222/hf0222/bin/Debug/net7.0/hf0222
+/Users/gillichnorbert/Projects/hf0222/hf0222/bin/Debug/net7.0/hf0222.deps.json
+/Users/gillichnorbert/Projects/hf0222/hf0222/bin/Debug/net7.0/hf0222.runtimeconfig.json
+/Users/gillichnorbert/Projects/hf0222/hf0222/bin/Debug/net7.0/hf0222.dll
+/Users/gillichnorbert/Projects/hf0222/hf0222/bin/Debug/net7.0/hf0222.pdb
+/Users/gillichnorbert/Projects/hf0222/hf0222/obj/Debug/net7.0/hf0222.csproj.AssemblyReference.cache
+/Users/gillichnorbert/Projects/hf0222/hf0222/obj/Debug/net7.0/hf0222.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gillichnorbert/Projects/hf0222/hf0222/obj/Debug/net7.0/hf0222.AssemblyInfoInputs.cache
+/Users/gillichnorbert/Projects/hf0222/hf0222/obj/Debug/net7.0/hf0222.AssemblyInfo.cs
+/Users/gillichnorbert/Projects/hf0222/hf0222/obj/Debug/net7.0/hf0222.csproj.CoreCompileInputs.cache
+/Users/gillichnorbert/Projects/hf0222/hf0222/obj/Debug/net7.0/hf0222.dll
+/Users/gillichnorbert/Projects/hf0222/hf0222/obj/Debug/net7.0/refint/hf0222.dll
+/Users/gillichnorbert/Projects/hf0222/hf0222/obj/Debug/net7.0/hf0222.pdb
+/Users/gillichnorbert/Projects/hf0222/hf0222/obj/Debug/net7.0/hf0222.genruntimeconfig.cache
+/Users/gillichnorbert/Projects/hf0222/hf0222/obj/Debug/net7.0/ref/hf0222.dll
